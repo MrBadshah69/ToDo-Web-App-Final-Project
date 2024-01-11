@@ -20,15 +20,13 @@ This is a simple ToDo web app built with HTML, CSS, JavaScript, PHP, and MySQL.
 
 ## Server-Side Implementation
 
-- The server-side logic is implemented in PHP (server.php).
+- The server-side logic is implemented in PHP (database.php).
 
 - It connects to a MySQL database to store and retrieve tasks.
 
 ## Client-Side Implementation
 
 - The client-side logic is implemented in JavaScript (script.js).
-
-- It uses AJAX or the fetch API to communicate with the server.
 
 ## Customize
 
