@@ -46,16 +46,16 @@ Make sure to update the MySQL database credentials and sanitize user inputs to e
 
 ## Customize
 
-Feel free to customize the code based on your specific requirements. You can modify the user interface, add new features, or integrate additional technologies as needed.
+- Feel free to customize the code based on your specific requirements. You can modify the user interface, add new features, or integrate additional technologies as needed.
 
 ## Deployment
 
-The app is deployed on [000webhost](https://000webhostapp.com/). Ensure proper security measures, such as HTTPS, are in place for production deployment.
+- The app is deployed on [000webhost](https://000webhostapp.com/). Ensure proper security measures, such as HTTPS, are in place for production deployment.
 
 ## Contribution
 
-Contributions are welcome! If you have suggestions or find any issues, feel free to open an issue or submit a pull request.
+- Contributions are welcome! If you have suggestions or find any issues, feel free to open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the [Muhammad Arsalan](https://github.com/MrBadshah69/)
+- This project is licensed under the [Muhammad Arsalan](https://github.com/MrBadshah69/)
